@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.application {
+
+    margin-top: 5%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 0.5rem;
+}
+
+.result {
+    min-height: 5rem;
+}
